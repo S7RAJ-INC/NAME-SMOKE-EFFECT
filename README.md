@@ -39,7 +39,11 @@ Open the index.html file in your web browser to view the smoke effect.
 # Usage
 Customizing Text: Open the index.html file and modify the text within the <h1> or <p> tags to change the displayed name or text.
 
+---
+
 Adjusting the Effect: You can customize the smoke effect by modifying the CSS styles in the styles.css file. Adjust properties like opacity, animation-duration, and color to achieve the desired look.
+
+---
 
 Viewing the Effect: Refresh your browser to see the changes in real-time.
 
